@@ -25,3 +25,11 @@
 	
 	echo "õnne";
 ?>
+
+<br>
+
+<?php
+
+	echo date("d. F Y G:i");
+
+?>
